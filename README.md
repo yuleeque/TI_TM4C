@@ -1,4 +1,12 @@
 
+Port selection: 10.4 on page 658 datasheet. Use APB.
+
+
+
+
+
+
+
 
 
 ## Setup
